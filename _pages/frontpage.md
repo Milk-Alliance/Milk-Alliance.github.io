@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: Welcome
-list_title: My blog posts
+list_title: Posts
 ---
 
 This is the Milk Alliance guild site, where you can find information related to PSO2 and guild events!
