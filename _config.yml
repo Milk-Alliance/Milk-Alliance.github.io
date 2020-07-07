@@ -1,15 +1,12 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
-
+title: Milk Alliance
+description: Milk Alliance Website
+author: "Joey / Jufu"
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+# github_username: jsanz
+# linkedin_username: jsanz
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
